@@ -33,3 +33,10 @@ This repository contains the **core framework implementation** as described in t
 ### Software
 - Python 3.10 or 3.11
 - Ollama running locally with Qwen2.5:7b-instruct-q4_K_M model pulled
+
+**API Key Configuration**
+- Serper API key is intentionally set to 'your-own-key' as a placeholder.
+- Replace it with your own key (get free from https://serper.dev).
+- Recommended: use environment variable instead:
+  export SERPER_API_KEY='your-real-key'
+- Never commit your real key to Git!
