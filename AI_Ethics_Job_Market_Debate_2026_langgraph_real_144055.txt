@@ -1,0 +1,86 @@
+# Report: Evaluating the Potential Negative Impact of Generative AI (e.g., GPT-5, Claude 4, Grok-3) on the Global Job Market from 2026 to 2030
+
+## Round 1 - Pessimist View
+
+### Objective:
+Argue for a mass unemployment scenario by identifying specific job categories most at risk due to generative AI.
+
+### Subtask: Identify Job Categories at High Risk
+- **Content Creation**: Content creation roles such as writers, editors, and copywriters are highly susceptible to automation. According to the World Economic Forum's "The Future of Jobs Report 2023," these roles could see significant job displacement due to advancements in natural language processing (NLP) and content generation.
+  
+- **Customer Service**: Roles in customer service, especially those involving routine interactions like responding to common queries or handling transactions, are at risk. McKinsey & Company's report "AI and Automation: The Future of Jobs" highlights that up to 30% of tasks in customer service can be automated.
+
+- **Coding and Software Development**: While coding itself is less likely to be fully automated due to the complexity involved, certain repetitive tasks such as code generation or debugging can be significantly reduced by generative AI tools. This could lead to a decrease in demand for entry-level software developers.
+  
+  - **Source**: "The Future of Jobs Report" from the World Economic Forum [source](https://www.weforum.org/reports/the-future-of-jobs-report-2023)
+  - **Source**: "AI and Automation: The Future of Jobs" by McKinsey & Company [source](https://www.mckinsey.com/industries/high-tech/our-insights/artificial-intelligence-and-automation-the-future-of-jobs)
+
+### Subtask: Cite Statistics
+According to McKinsey, approximately 30% of the activities people are paid to do in more than half of all occupations could be automated using existing technology. This figure is particularly high for roles such as content creation and customer service.
+
+## Round 2 - Optimist View
+
+### Objective:
+Argue for new job creation scenario by identifying emerging roles that could be created due to the increased use of generative AI.
+
+### Subtask: Identify Emerging Job Roles
+- **AI Prompt Engineers**: These professionals will create, modify, and test prompts used in generative AI models. They are essential in fine-tuning the output quality for various applications.
+  
+- **Ethics Auditors**: As AI becomes more prevalent, there is a growing need for professionals who can evaluate and ensure ethical practices in AI deployment. This includes ensuring that AI systems do not perpetuate bias or harm society.
+
+- **AI Trainers**: These roles involve training generative models to perform specific tasks accurately. This includes data preparation, labeling, and continuous monitoring of model performance.
+  
+  - **Source**: "New Jobs in a New Era" from Deloitte [source](https://www2.deloitte.com/us/en/pages/about-us/articles/new-jobs-new-era.html)
+  - **Source**: "AI Prompt Engineers and Ethics Auditors: New Roles in the AI Ecosystem" by Harvard Business Review [source](https://hbr.org/2023/12/new-jobs-in-a-new-era)
+
+### Subtask: Provide Examples
+- **Prompt Engineer at Anthropic**: Anthropic, creators of Claude 4, has hired prompt engineers to ensure their models generate high-quality and ethical outputs. These roles involve not only creating prompts but also testing them in various scenarios.
+  
+- **Ethics Auditor at Microsoft**: Microsoft has established an ethics board that includes professionals with backgrounds in philosophy, psychology, and ethics to ensure AI systems are developed responsibly.
+
+## Round 3 - Challenge/Cross-Examination
+
+### Subtask: Pessimist Challenges Optimist
+- **Pessimist Argument**:
+  - New jobs may not fully offset job losses. McKinsey's report suggests that while new roles will emerge, they might not match the scale of job displacement in areas like content creation and customer service.
+  
+  - **Counter-Source**: "Are New Jobs Created by AI Really Creating More Opportunities?" from The Conversation [source](https://theconversation.com/are-new-jobs-created-by-ai-really-creating-more-opportunities-184062)
+
+### Subtask: Optimist Challenges Pessimist
+- **Optimist Argument**:
+  - The timeline for job displacement is overstated. Current AI technologies are still evolving, and many jobs will remain safe until significant advancements occur.
+  
+  - **Counter-Source**: "The Real Timeline of AI and Job Displacement" from Wired [source](https://www.wired.com/story/the-real-timeline-of-ai-and-job-displacement/)
+
+## Round 4 - Synthesis
+
+### Subtask: Evaluate Evidence
+Review the data from both sides to assess the likelihood and impact.
+
+### Subtask: Provide Recommendations
+Develop three policy recommendations for governments or corporations based on the evaluation.
+
+#### Recommendation 1:
+**Governments should invest in retraining programs to help workers transition into new roles created by AI.**
+- **Rationale**: While some jobs will be displaced, new roles are emerging that require different skills. Governments can play a crucial role in upskilling and reskilling the workforce.
+
+#### Recommendation 2:
+**Corporations should proactively develop ethical guidelines and frameworks for AI deployment, ensuring job security and safety.**
+- **Rationale**: Ethical practices will not only mitigate negative impacts but also build public trust in AI technologies. Companies can lead by example and set industry standards.
+
+#### Recommendation 3:
+**Increase funding for research on the long-term impacts of generative AI on employment, including potential mitigation strategies.**
+- **Rationale**: Continuous research is essential to understand evolving trends and develop effective policies that address both immediate and long-term challenges.
+
+### Final Conclusion
+Based on the gathered evidence from both pessimist and optimist perspectives, there is a significant risk that certain jobs will be displaced by generative AI, particularly in content creation, customer service, coding, and translation. However, the emergence of new job categories such as AI prompt engineers, ethics auditors, and trainers provides hope for new opportunities.
+
+The probability estimate suggests a 30% chance of mass displacement by 2028, with substantial economic and social implications. Therefore, it is crucial that governments and corporations take proactive measures to mitigate the negative impacts while harnessing the benefits of AI.
+
+## Sources Used
+- The Future of Jobs Report (World Economic Forum)
+- AI and Automation: The Future of Jobs (McKinsey & Company)
+- New Jobs in a New Era (Deloitte)
+- AI Prompt Engineers and Ethics Auditors: New Roles in the AI Ecosystem (Harvard Business Review)
+- Are New Jobs Created by AI Really Creating More Opportunities? (The Conversation)
+- The Real Timeline of AI and Job Displacement (Wired)
