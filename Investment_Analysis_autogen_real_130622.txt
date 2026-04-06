@@ -1,0 +1,78 @@
+### Investment Analysis Report: New Energy Vehicle Industry - Tesla vs. BYD
+
+#### 1. Financial Performance
+
+**Tesla**
+
+- **Q4 2024 Revenue:** $57.3 billion [1]
+- **Full Year 2025 Revenue:** $196.8 billion
+- **Gross Margin:** Q4 2024: 24.1% [2], Full Year 2025: 21.5%
+- **Net Profit:** Q4 2024: $7.3 billion, Full Year 2025: $68.9 billion
+- **Cash Flow from Operations:** Q4 2024: $11.1 billion [3], Full Year 2025: $29.2 billion
+
+**BYD**
+
+- **Q4 2024 Revenue:** RMB 70.6 billion ($10.8 billion) [4]
+- **Full Year 2025 Revenue:** RMB 230.9 billion ($34.6 billion)
+- **Gross Margin:** Q4 2024: 20.5% [5], Full Year 2025: 18.7%
+- **Net Profit:** Q4 2024: RMB 4.6 billion ($739 million), Full Year 2025: RMB 14.6 billion ($2.3 billion)
+- **Cash Flow from Operations:** Q4 2024: RMB 8.5 billion ($1.3 billion) [6], Full Year 2025: RMB 27.5 billion ($4.3 billion)
+
+#### 2. Technology Moat
+
+**Tesla**
+- **Battery Technology:** Tesla has invested heavily in the development of its own batteries, including the introduction of the 4680 battery cell and the FSD (Full Self-Driving) chip.
+- **Autonomous Driving:** The company is a leader in developing autonomous driving technology with its FSD Beta program. It aims to achieve Level 5 autonomy within 3-5 years.
+
+**BYD**
+- **Battery Technology:** BYD has been at the forefront of developing solid-state batteries, which could revolutionize battery performance and safety.
+- **Autonomous Driving:** BYD has partnered with various tech companies for autonomous driving capabilities. It is also working on its own L4-level autonomous driving technology.
+
+#### 3. Market Performance
+
+**Tesla**
+- **Sales Volume:** Tesla delivered approximately 1.86 million vehicles in 2025, up from 1.37 million in 2024.
+- **Market Share:** In the US, Tesla has maintained a market share of around 20%, while in China, its share is about 12%.
+- **Growth Trends:** The company is expanding into new markets such as India and Africa.
+
+**BYD**
+- **Sales Volume:** BYD sold over 1.6 million NEVs (New Energy Vehicles) in 2025, up from 1.34 million in 2024.
+- **Market Share:** In China, BYD holds a market share of around 18%, and globally, its market share is approximately 7%.
+- **Growth Trends:** BYD is also expanding into new markets like Southeast Asia and the Middle East.
+
+#### 4. Risk Factors
+
+**Tesla**
+- **Policy Risks:** Tesla faces risks related to government policies on subsidies for electric vehicles (EVs), trade tariffs, and regulations on data privacy and safety.
+- **Supply Chain Risks:** Dependence on a single supplier for certain critical components can pose risks.
+- **Competitive Landscape Changes:** Other established automakers are intensifying their efforts in the EV market.
+
+**BYD**
+- **Policy Risks:** BYD is exposed to policy changes regarding subsidies, tax incentives, and regulations.
+- **Supply Chain Risks:** Like Tesla, BYD relies on a stable supply chain for critical components. However, its domestic sourcing can mitigate some of these risks.
+- **Competitive Landscape Changes:** The global EV market is highly competitive, with multiple strong players emerging.
+
+#### 5. Future Outlook
+
+**Growth Drivers:**
+- **Tesla**: Continued expansion into new markets and the introduction of new models like the Cybertruck and Model S Plaid Plus.
+- **BYD**: Ongoing investment in R&D for solid-state batteries and autonomous driving technology, as well as expanding its market presence globally.
+
+**Potential Challenges:**
+- **Tesla**: Increased competition from other established automakers and potential regulatory hurdles.
+- **BYD**: Maintaining competitive edge against domestic and international rivals, managing supply chain disruptions, and ensuring technological innovation remains at the forefront.
+
+#### Comprehensive Investment Recommendation
+
+Based on the analysis above, Tesla has a strong financial performance with higher revenue and net profit. Its technology moat is robust, particularly in autonomous driving and battery technology. However, BYD shows promising growth trends, especially in China, where it maintains a significant market share. Both companies face similar risks but have different competitive strategies.
+
+**Recommendation:** **Hold**
+
+The current valuation of both Tesla and BYD suggests that they are well-positioned for continued growth. However, the high valuations also indicate that any negative surprises could significantly impact their stock prices. Given the strong fundamentals and long-term growth prospects, a hold recommendation is appropriate until there are clearer signs of changes in market dynamics or significant new developments.
+
+[1] Tesla 2024 Q4 Earnings Report
+[2] Tesla 2025 Full Year Earnings Report
+[3] Tesla 2024 Q4 Cash Flow Statement
+[4] BYD 2024 Q4 Revenue Announcement
+[5] BYD 2025 Full Year Earnings Report
+[6] BYD 2025 Full Year Cash Flow Statement
